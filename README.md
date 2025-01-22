@@ -1,4 +1,6 @@
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HackerRank](https://img.shields.io/badge/HackerRank-008000?style=for-the-badge&logo=HackerRank&logoColor=white)
+![Problem Solver](https://img.shields.io/badge/Problem%20Solver-FF5722?style=for-the-badge&logo=Handshake&logoColor=white)
 
 # 10 𝗗𝗮𝝲𝘀 𝗼𝗳 𝗝𝗮𝝼𝗮𝗦𝗰𝗿𝗶𝗽𝘁 𝗦𝗼𝝞𝞄𝘁𝗶𝗼𝗻𝘀 🚀
 
