@@ -11,3 +11,9 @@
 ![2nd-question](./img/2.png)
 
 ## ⛔️ ⛔️
+
+## 3RD QUESTION ✅ ✅
+
+![3rd-question](./img/3.png)
+
+## ⛔️ ⛔️
